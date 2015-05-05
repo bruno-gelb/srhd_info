@@ -18,6 +18,8 @@ if "%command%" == "log" (
 	type %gamedir%\########.log | findstr /i "%param%"
 ) else if "%command%" == "cfg" (
 	type %gamedir%\cfg.txt | findstr /i "%param%"
+) else if "%command%" == "open_savedir" (
+	start %gamedir:"=%\Save
 ) else (
 	rem
 )

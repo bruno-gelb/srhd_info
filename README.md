@@ -32,3 +32,5 @@ after that your options are:
 **srhd_info log** *\<param_name\>* - *get param from .log (e.g.,* **srhd_info log build** *).*
 <br>
 **srhd_info cfg** *\<param_name\>* - *get param from cfg.txt (e.g.,* **srhd_info cfg vsync** *).*
+<br>
+**srhd_info open_savedir** - *opens directory with your saves in default filemanager*
