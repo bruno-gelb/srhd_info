@@ -6,6 +6,9 @@ should work for any windows version
 <br>
 (if not, please contact me)
 
+I have idea to rewrite it all to Ruby (to properly extend functionality),<br>
+though not sure it will really happen. =)
+
 # installation
 press **[Win+R]**,
 <br>
