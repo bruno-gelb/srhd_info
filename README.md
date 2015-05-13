@@ -1,6 +1,7 @@
 # srhd_info
 get info about installed copy of Space Rangers HD: A War Apart
 <br><br>
+written strictly with windows batch scripting,<br>
 should work for any windows version
 <br>
 (if not, please contact me)
